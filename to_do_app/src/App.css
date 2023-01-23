@@ -17,10 +17,12 @@
   .app .mainHeading h1 {
     text-align: center;
   }
+  .app h2 {
+    color: rgb(246, 243, 24);
+  }
   
-  .app h1,
-  h2 {
-    color: white;
+  .app h1 {
+    color: rgb(255, 255, 255);
   }
   
   .app .input {
